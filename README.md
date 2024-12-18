@@ -55,7 +55,7 @@ Aplikasi web berbasis Flask untuk mendeteksi pesan spam menggunakan model pembel
 ## Instalasi
 1. **Clone repositori ini**:
    ```bash
-   git clone https://github.com/username/spam-detector.git
+   git clone https://github.com/Jezz76/EmailClassifier.git
    cd spam-detector
    ```
 
